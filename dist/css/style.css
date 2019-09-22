@@ -73,6 +73,7 @@ img {
   color: #555;
 }
 
+/* Section A */
 .section-a {
   margin: 2rem;
 }
@@ -90,6 +91,14 @@ img {
 }
 .section-a p {
   margin: 1rem 0;
+}
+
+/* Section B */
+
+.section-b {
+  position: relative;
+  background: url("../img/showintro.jpg") no-repeat bottom center/cover;
+  height: 600px;
 }
 
 /* Utilities */
